@@ -6,4 +6,4 @@ Questo repository contiene il notebook python usato per un seminario tenuto al B
 
 | Data | Notebook | Link |
 |:-|:-|:-|
-|**[2024/03/14]**|*Ricorsioni di Escher*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathcoding/opt4ds/blob/master/escher.ipynb)|
+|**[2024/03/14]**|*Ricorsioni di Escher*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stegua/escher-2k24/blob/main/RicorsioniGrafiche.ipynb)|

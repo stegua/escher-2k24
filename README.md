@@ -2,6 +2,10 @@
 
 Questo repository contiene il notebook python usato per un seminario tenuto al Broletto di Pavia, in occasione del **pi-day 2k24**.
 
+In questo notebook, si mostra come usare un linguaggio di programmazione molto semplice per **programmare** delle funzioni ricorsive che trasformano immagini semplici in immagini articolate. L'obiettivo finale è di arrivare a scrivere una funzione composta che produce un'immagine simile al [woodcut di Escher](https://www.wikiart.org/en/m-c-escher/square-limit) chiamato **Square Limit**:
+
+![Escher's Fish](fishEscher.jpg)
+
 ### Python Notebook
 
 | Data | Notebook | Link |

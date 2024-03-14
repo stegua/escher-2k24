@@ -20,4 +20,6 @@ Per segnalare errori o suggerire miglioramenti al notebbok, aprire una pull requ
 2. La libreria [svgpath2mpl](https://github.com/nvictus/svgpath2mpl) è usata nella libreria [escherFish.py](https://github.com/stegua/escher-2k24/blob/main/escherFish.py)
 3. La classe Tile, usata sempre nel file [escherFish.py](https://github.com/stegua/escher-2k24/blob/main/escherFish.py) è stata ripresa e riadatta da questo sito [https://github.com/mapio/programming-with-escher/blob/master/notebook.ipynb](https://github.com/mapio/programming-with-escher/blob/master/notebook.ipynb)
 
+<br>
+<br>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><b>Ricorsioni grafiche nel mondo di Escher</b></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://mate.unipv.it/gualandi" property="cc:attributionName" rel="cc:attributionURL">Stefano Gualandi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Based on a project at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mathcoding/opt4ds" rel="dct:source">https://github.com/escher-2k24</a>.

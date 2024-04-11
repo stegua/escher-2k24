@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Libreria di support al Lab7 del corso di Programmazione 1 al dipartimento di matematica
-dell'Università di Pavia.
+Libreria di supporto alla lezione sulle "Immagini Ricorsive", tenuta per il corso di Programmazione 1 al Dipartimento di Matematica
+dell'Università di Pavia, nel 2018-2024.
 
 SOURCES: 
     

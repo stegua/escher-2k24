@@ -13,6 +13,12 @@ In questo notebook, si mostra come usare un linguaggio di programmazione molto s
 |**[2024/03/14]**|*Ricorsioni di Escher*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stegua/escher-2k24/blob/main/RicorsioniGrafiche.ipynb)|
 |**[2024/03/14]**|*Libreria Python di supporto al notebook*|[escherFish.py](https://github.com/stegua/escher-2k24/blob/main/escherFish.py)|
 
+### Python Notebook per Esercizi
+| Data | Notebook | Link |
+|:-|:-|:-|
+|**[2024/04/11]**|*Esercizi*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stegua/escher-2k24/blob/main/Esercizi.ipynb)|
+|**[2024/04/11]**|*Libreria Python per svolgere gli esercizi*|[tiles.py](https://github.com/stegua/escher-2k24/blob/main/tiles.py)|
+
 ### Approfondimenti
 Le persone interessate a questo argomento, possono approfondire gli argomenti introdotti in questa lezione, leggendo un articolo di [Functional Geometry](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) e provare ad individuare connessioni con argomenti affrontati in altri corsi.
 

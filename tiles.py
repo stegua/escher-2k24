@@ -280,7 +280,7 @@ def parse_path(d):
 """
 ----------------------------------------------------------------------------------
 """
-__all__ = ['parse', 'flip', 'rot', 'rot45', 'over', 'beside', 'above', 'setSize', 'saveTile', 'quartet', 'nonet', 'TR', 'TQ', 'EDGE', 'ARC', 'Chess', 'Squares', 'Irish', 'Eye', 'Spiral']
+__all__ = ['parse', 'flip', 'rot', 'rot45', 'over', 'beside', 'above', 'setSize', 'saveTile', 'quartet', 'nonet', 'TR', 'TQ', 'EDGE', 'ARC']
 
 from collections import namedtuple 
 

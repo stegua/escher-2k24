@@ -1,19 +1,22 @@
 # Ricorsioni di Escher: *The square limit*
 
-Questo repository contiene il notebook python usato per un seminario tenuto al Broletto di Pavia, in occasione del **pi-day 2k24**.
+Questo repository contiene il notebook python usato per dei seminari o laboratori tenuti nelle seguenti occasioni:
 
-In questo notebook, si mostra come usare un linguaggio di programmazione molto semplice per **programmare** delle funzioni ricorsive che trasformano immagini semplici in immagini articolate. L'obiettivo finale è di arrivare a scrivere una funzione composta che produce un'immagine simile al [woodcut di Escher](https://www.wikiart.org/en/m-c-escher/square-limit) chiamato **Square Limit**:
+* Talent Days 2024, evento online.
+* PiDay 2024, presso il Broletto di Pavia.
 
 ![Escher's Fish](fishEscher.jpg)
 
 ### Python Notebook
+
+In questo notebook, si mostra come usare un linguaggio di programmazione molto semplice per **programmare** delle funzioni ricorsive che trasformano immagini semplici in immagini articolate. L'obiettivo finale è di arrivare a scrivere una funzione composta che produce un'immagine simile al [woodcut di Escher](https://www.wikiart.org/en/m-c-escher/square-limit) chiamato **Square Limit**:
 
 | Data | Notebook | Link |
 |:-|:-|:-|
 |**[2024/03/14]**|*Ricorsioni di Escher*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stegua/escher-2k24/blob/main/RicorsioniGrafiche.ipynb)|
 |**[2024/03/14]**|*Libreria Python di supporto al notebook*|[escherFish.py](https://github.com/stegua/escher-2k24/blob/main/escherFish.py)|
 
-### Python Notebook per Esercizi
+### Esercizi
 | Data | Notebook | Link |
 |:-|:-|:-|
 |**[2024/04/11]**|*Esercizi*|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stegua/escher-2k24/blob/main/Esercizi.ipynb)|

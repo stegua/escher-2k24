@@ -1,11 +1,11 @@
 # Ricorsioni di Escher: *The square limit*
 
+![Escher's Fish](fishEscher.jpg)
+
 Questo repository contiene il notebook python usato per dei seminari o laboratori tenuti nelle seguenti occasioni:
 
 * Talent Days 2024, evento online.
 * PiDay 2024, presso il Broletto di Pavia.
-
-![Escher's Fish](fishEscher.jpg)
 
 ### Python Notebook
 
